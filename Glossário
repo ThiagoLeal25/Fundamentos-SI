@@ -1,0 +1,34 @@
+Cloud computing, ou computação em nuvem, é um modelo de entrega de serviços de computação pela Internet. 
+Em vez de executar aplicativos ou armazenar dados em servidores locais ou em computadores pessoais, são usados recursos remotos e compartilhados disponíveis através da Internet.
+
+Em vez de possuir e manter servidores físicos, o cloud computing permite que organizações acessem servidores virtuais, 
+armazenamento, bancos de dados e outros recursos computacionais conforme necessário, pagando apenas pelo uso que é feito deles. 
+Isso proporciona flexibilidade e escalabilidade, já que os recursos podem ser ajustados rapidamente para atender às necessidades em constante mudança de uma empresa.
+
+Existem três modelos de serviço principais no cloud computing:
+
+Infrastructure as a Service (IaaS): Nesse modelo, são fornecidos recursos de infraestrutura, como servidores virtuais, 
+armazenamento e redes, que podem ser configurados e gerenciados pelo usuário. O usuário é responsável pela instalação, 
+configuração e gerenciamento do sistema operacional e do software aplicativo.
+Exemplos: 
+-Amazon Web Services
+-Microsoft Azure
+-IBM Cloud
+
+Platform as a Service (PaaS): Aqui, são fornecidos recursos de plataforma que incluem o ambiente de desenvolvimento e execução de aplicativos. 
+O provedor de serviços gerencia a infraestrutura subjacente, como servidores e armazenamento, 
+enquanto o usuário é responsável pelo desenvolvimento e gerenciamento do aplicativo.
+Exemplos:
+-Heroku
+-Google App Engine
+
+Software as a Service (SaaS): Nesse modelo, os aplicativos são fornecidos aos usuários finais pela Internet. 
+Os usuários acessam o software por meio de um navegador da web ou de uma interface de usuário específica. 
+O provedor de serviços é responsável pela infraestrutura, manutenção e atualização do software.
+Exemplos:
+-Microsoft Office 365
+-Trello
+
+Esses modelos de serviço permitem que empresas e usuários acessem recursos computacionais poderosos sem precisar investir em infraestrutura física. 
+A computação em nuvem oferece escalabilidade, flexibilidade e eficiência, permitindo que as organizações aumentem ou reduzam rapidamente seus recursos 
+de acordo com suas necessidades.
